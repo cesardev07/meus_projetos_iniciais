@@ -1,4 +1,5 @@
-import random
+import randomgit commit -m "adiciona novos projetos"
+git push
 
 print("E que tal uma aposta? Eu irei escolher um numero, tente advinhar!")
 
